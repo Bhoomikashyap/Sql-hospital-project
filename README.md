@@ -48,28 +48,27 @@ It solves **10 real-world SQL problems** such as patient counts, average stay du
 
 ## 🛠️ Tech Stack
 
-- **SQL** (MySQL / PostgreSQL / SQL Server compatible)  
-- **CSV dataset import**  
-- **DBMS** (Any relational database system)
+ **SQL** (MySQL / PostgreSQL / SQL Server compatible)  
+ **CSV dataset import**  
+ **DBMS** (Any relational database system)
 
----
+
 
 ## 📊 Assignment Queries Solved
 
 This project covers the following **10 SQL problems**:
 
-1️⃣ **Total Number of Patients** – Count patients across all hospitals.  
-2️⃣ **Average Number of Doctors per Hospital** – Find average doctors per hospital.  
-3️⃣ **Top 3 Departments with the Highest Number of Patients** – Identify busiest departments.  
-4️⃣ **Hospital with Maximum Medical Expenses** – Find hospital with highest expenses.  
-5️⃣ **Daily Average Medical Expenses** – Calculate per-day expenses for each hospital.  
-6️⃣ **Longest Hospital Stay** – Identify patient with maximum stay duration.  
-7️⃣ **Total Patients Treated Per City** – Count patients city-wise.  
-8️⃣ **Average Length of Stay Per Department** – Find average days spent in each department.  
-9️⃣ **Department with the Lowest Number of Patients** – Identify least busy department.  
-🔟 **Monthly Medical Expenses Report** – Summarize expenses month-wise.  
+**Total Number of Patients** – Count patients across all hospitals.  
+**Average Number of Doctors per Hospital** – Find average doctors per hospital.  
+**Top 3 Departments with the Highest Number of Patients** – Identify busiest departments.  
+**Hospital with Maximum Medical Expenses** – Find hospital with highest expenses.  
+**Daily Average Medical Expenses** – Calculate per-day expenses for each hospital.  
+**Longest Hospital Stay** – Identify patient with maximum stay duration.  
+**Total Patients Treated Per City** – Count patients city-wise.  
+**Average Length of Stay Per Department** – Find average days spent in each department.  
+**Department with the Lowest Number of Patients** – Identify least busy department.  
+**Monthly Medical Expenses Report** – Summarize expenses month-wise.  
 
----
 
 ## 🚀 How to Use
 
